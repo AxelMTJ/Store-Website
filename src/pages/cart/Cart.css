@@ -1,0 +1,41 @@
+.CartContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.CartContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 120px;
+}
+
+.Cartimg{
+    align-items: center;
+    margin-left: 30%;
+}
+
+.Cartbutton{
+    align-items: center;
+    width: 10px;
+}
+
+.CartProductName {
+    font-size: 28px;
+    font-family: Fantasy, serif;
+}
+
+.CartPrice {
+    font-size: 20px;
+    font-family: Fantasy, serif;
+}
+
+.CartPlusButton{
+    margin-right: 20px;
+}
+
+.CartPlusNum{
+    margin-right: 20px;
+}
